@@ -101,13 +101,11 @@ router bgp 34705
 neighbor 2.2.2.1 remote-as 34705
 neighbor 2.2.2.6 remote-as 34705
 neighbor 10.10.10.10 remote-as 3292
-
 ```
 #### R6:
 ```
 router bgp 34705
 neighbor 2.2.2.5 remote-as 34705
-
 ```
 ![](/Vedhæftet/BGP%20-%20Ibgp&ebgp%20(2).png)
 ---
