@@ -71,8 +71,6 @@ Dette vil betyde at vi skal bruge iBGP inde i skyerne, og eBGP udenfor.
 ```
 router bgp 209424
 neighbor 1.1.1.2 remote-as 209424
-
-
 ```
 #### R2:
 ```
@@ -120,7 +118,6 @@ neighbor 2.2.2.5 remote-as 34705
 router bgp 3292
 neighbor 3.3.3.2 remote-as 3292
 neighbor 10.10.10.9 remote-as 34705
-
 ```
 #### R8:
 ```
