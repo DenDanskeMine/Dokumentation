@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "a36a0fa2e9251237",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f29b7ee020a3951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "257942947c99c858",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "MAster.canvas",
+                "viewState": {
+                  "x": -138.03827022444284,
+                  "y": -568.5425572732486,
+                  "zoom": -1.3333333333333333
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "826d22ffd087d3b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing Protocols/IGP/Link-State/Link-State.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "582fc1b76df2c469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing Protocols/IGP/Link-State/OSPF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "160ba847032c367a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing Protocols/IGP/Distance Vector/EIGRP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f86fede9a424518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing Protocols/IGP/Distance Vector/RIP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca8c7643e2617030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing Protocols/IGP/Distance Vector/RIP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74b4f68816edec65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing Protocols/MPLS/MPLS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb48d13c10152717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing Protocols/IGP/Distance Vector/Distance Vector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02d7d7ec3f496525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Routing Protocols/EGP/BGP/EBGP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a80508fd78bfda8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IP/IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3514557053a66e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ad11f494ec66f85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c170da66dabd354",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1bb6e7a5f42d478",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e160339ab2366b4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82b6e6cd4a6c69ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "dad442e11dc962e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4fca0273b665f9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IP/IP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65be73b881825250",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IP/IP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7967d6a0eca5b51d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b8824c489f3d135d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IP/IP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "4a80508fd78bfda8",
+  "lastOpenFiles": [
+    "dokumentation",
+    "Routing Protocols/EGP/BGP/BGP.md",
+    "Routing Protocols/EGP/BGP/IBGP.md",
+    "Routing Protocols/EGP/BGP/MP-BGP.md",
+    "Routing Protocols/IGP/Distance Vector/Distance Vector.md",
+    "Routing Protocols/IGP/Distance Vector/EIGRP.md",
+    "Routing Protocols/IGP/Distance Vector/RIP.md",
+    "Routing Protocols/IGP/Link-State/Link-State.md",
+    "Routing Protocols/IGP/Link-State/OSPF.md",
+    "Routing Protocols/IGP/IGP.md",
+    "Routing Protocols/EGP/BGP/EBGP.md",
+    "Routing Protocols/EGP/EGP.md",
+    "Vedhæftet",
+    "MAster.canvas",
+    "Routing Protocols/MPLS/MPLS.md",
+    "Routing Protocols/MPLS/VRF.md",
+    "Routing Protocols/IGP/Link-State",
+    "Routing Protocols/IGP/Distance Vector",
+    "Untitled 1",
+    "IP/IP.md",
+    "IP",
+    "Untitled.canvas",
+    "Routing Protocols/EGP",
+    "Routing Protocols/IGP",
+    "Untitled 4.canvas",
+    "Routing Protocols",
+    "Untitled 1.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "2023-09-16.md",
+    "Routing Protocols/EGP/BGP",
+    "Routing Protocols/MPLS"
+  ]
+}

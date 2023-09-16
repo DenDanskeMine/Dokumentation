@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"21a8c8239b88171f","x":-1640,"y":-1040,"width":2360,"height":1030,"type":"group","label":"Basic MPLS"},
+		{"id":"b97491533bc3c41f","type":"file","file":"IP/IP.md","x":-1620,"y":-860,"width":380,"height":61,"color":"5"},
+		{"id":"1c89c67ef2d01db4","type":"text","text":"# Routing Protokoller","x":-1060,"y":-859,"width":340,"height":60,"color":"#3e7e77"},
+		{"id":"d3ebdb1a4d11e710","type":"file","file":"Routing Protocols/EGP/EGP.md","x":-380,"y":-860,"width":118,"height":50,"color":"#ff9500"},
+		{"id":"ee36431e423b97cb","type":"file","file":"Routing Protocols/IGP/IGP.md","x":-380,"y":-350,"width":111,"height":50,"color":"3"},
+		{"id":"32d4cabec2a63a23","x":-135,"y":-375,"width":155,"height":50,"color":"1","type":"file","file":"Routing Protocols/IGP/Distance Vector/EIGRP.md"},
+		{"id":"e80eb259f2e153df","type":"file","file":"Routing Protocols/MPLS/VRF.md","x":-1012,"y":-415,"width":245,"height":50},
+		{"id":"6949f3d300f5d85e","type":"file","file":"Routing Protocols/EGP/BGP/BGP.md","x":-60,"y":-860,"width":245,"height":50,"color":"1"},
+		{"id":"9286faf96d6b6e93","type":"file","file":"Routing Protocols/EGP/BGP/MP-BGP.md","x":-60,"y":-730,"width":245,"height":50,"color":"#206560"},
+		{"id":"985f5174d9ac0f3c","type":"file","file":"Routing Protocols/EGP/BGP/EBGP.md","x":380,"y":-960,"width":245,"height":50,"color":"2"},
+		{"id":"bd738a90b622c6cd","type":"file","file":"Routing Protocols/EGP/BGP/IBGP.md","x":380,"y":-780,"width":245,"height":50,"color":"3"},
+		{"id":"755b1d6b0c971224","x":-95,"y":-520,"width":280,"height":50,"type":"file","file":"Routing Protocols/IGP/Distance Vector/Distance Vector.md"},
+		{"id":"42b9e037a61b0251","x":-95,"y":-240,"width":275,"height":50,"type":"file","file":"Routing Protocols/IGP/Link-State/Link-State.md"},
+		{"id":"35a04e77ec174dd7","x":-28,"y":-80,"width":142,"height":50,"color":"1","type":"file","file":"Routing Protocols/IGP/Link-State/OSPF.md"},
+		{"id":"af2a3aac3b31ece3","x":100,"y":-375,"width":113,"height":50,"color":"1","type":"file","file":"Routing Protocols/IGP/Distance Vector/RIP.md"},
+		{"id":"bfa400a1e5086cec","type":"file","file":"Routing Protocols/MPLS/MPLS.md","x":-1012,"y":-495,"width":245,"height":55,"color":"6"}
+	],
+	"edges":[
+		{"id":"2b65684b47dfe4e0","fromNode":"6949f3d300f5d85e","fromSide":"right","toNode":"bd738a90b622c6cd","toSide":"left","color":"1"},
+		{"id":"e8ba864431a33748","fromNode":"6949f3d300f5d85e","fromSide":"right","toNode":"985f5174d9ac0f3c","toSide":"left","color":"1"},
+		{"id":"b7626ebc943b0b96","fromNode":"9286faf96d6b6e93","fromSide":"right","toNode":"985f5174d9ac0f3c","toSide":"left","color":"#20655c"},
+		{"id":"c0476097990acdc2","fromNode":"9286faf96d6b6e93","fromSide":"right","toNode":"bd738a90b622c6cd","toSide":"left","color":"#20655c"},
+		{"id":"807c088f6fc88022","fromNode":"bfa400a1e5086cec","fromSide":"bottom","toNode":"e80eb259f2e153df","toSide":"top"},
+		{"id":"cbe3b3bd6e52c35a","fromNode":"b97491533bc3c41f","fromSide":"right","toNode":"1c89c67ef2d01db4","toSide":"left"},
+		{"id":"3bb4e53ea9e62b54","fromNode":"b97491533bc3c41f","fromSide":"right","toNode":"bfa400a1e5086cec","toSide":"left"},
+		{"id":"ae60b9c791630222","fromNode":"1c89c67ef2d01db4","fromSide":"right","toNode":"d3ebdb1a4d11e710","toSide":"left","color":"4"},
+		{"id":"e0186aa02d810d15","fromNode":"d3ebdb1a4d11e710","fromSide":"right","toNode":"6949f3d300f5d85e","toSide":"left"},
+		{"id":"305e3fd156f3f051","fromNode":"d3ebdb1a4d11e710","fromSide":"right","toNode":"9286faf96d6b6e93","toSide":"left"},
+		{"id":"a144a6b2a4a705d0","fromNode":"1c89c67ef2d01db4","fromSide":"right","toNode":"ee36431e423b97cb","toSide":"left","color":"4"},
+		{"id":"98808c3268813641","fromNode":"ee36431e423b97cb","fromSide":"right","toNode":"42b9e037a61b0251","toSide":"left"},
+		{"id":"a602f6e3bf56d948","fromNode":"ee36431e423b97cb","fromSide":"right","toNode":"755b1d6b0c971224","toSide":"left"},
+		{"id":"4d5e6ba2278e040c","fromNode":"42b9e037a61b0251","fromSide":"bottom","toNode":"35a04e77ec174dd7","toSide":"top"},
+		{"id":"e5728299d33a850c","fromNode":"755b1d6b0c971224","fromSide":"bottom","toNode":"af2a3aac3b31ece3","toSide":"top"},
+		{"id":"d99216eaebc1c440","fromNode":"755b1d6b0c971224","fromSide":"bottom","toNode":"32d4cabec2a63a23","toSide":"top"},
+		{"id":"e38a1e3585cd40d0","fromNode":"bfa400a1e5086cec","fromSide":"right","toNode":"ee36431e423b97cb","toSide":"left","color":"6"},
+		{"id":"c466c4fd453e93e0","fromNode":"bfa400a1e5086cec","fromSide":"right","toNode":"9286faf96d6b6e93","toSide":"left","color":"6"}
+	]
+}
