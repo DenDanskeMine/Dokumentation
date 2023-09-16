@@ -23,11 +23,18 @@ BGP spiller en central rolle i at sikre effektiv og pålidelig dataoverførsel p
 Hele BGP er bygget op på de her Autonome systemer (autonomous systems).
 Man kan se et AS som sin egen sky, eller udbyder.
 
-![[AS 1.png]]
 
-På billedet oven over ses. ![eBGP](/Vedhæftet/AS%201.png)
+![eBGP](/Vedhæftet/AS%201.png)
+På billedet oven over ses [eBGP](/Routing%20Protocols/EGP/BGP/EBGP.md).<br>
 
 
+**eBGP:** Dette er en del af BGP, hvor internetudbydere udveksler routingtabeller med hinanden. Dette gør det muligt for dem at sende trafik på tværs af deres AS'er og til andre AS'er på internettet. eBGP spiller en afgørende rolle i at sikre, at internettrafikken når sin destination effektivt.
+
+For at se hvordan man opsætter eBGP [klik her](EBGP.md#basic-opsætning)
+
+Forskellen på [eBGP](/Routing%20Protocols/EGP/BGP/EBGP.md) og [iBGP](/Routing%20Protocols/EGP/BGP/IBGP.md) er enlig bare at eBGP bliver brugt imellem skyerne, og iBGP bliver brugt inde i skyerne.<br>
+Med iBGP har alle neighbors det samme AS nummer. 
+![iBGP](/Vedhæftet/iBGP.png)
 
   
   
