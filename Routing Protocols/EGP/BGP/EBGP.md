@@ -61,7 +61,7 @@ Dette skal gøres på begge routere for at forme et naboskab.
 ## eBGP & iBGP:
 Nu kobler vi 3 routere på i hver sky.<br>
 Dette vil betyde at vi skal bruge iBGP inde i skyerne, og eBGP udenfor.
-![](/Vedhæftet/BGP%20-%20eBGP%20(1).png)
+![](/Vedhæftet/BGP%20-%20Ibgp&ebgp.png)
 
 ---
 
@@ -79,6 +79,7 @@ router bgp 209424
 ```
 router bgp 209424
 ```
+![](/Vedhæftet/BGP%20-%20Ibgp&ebgp%20(1).png)
 ---
 ### STOFA:
 
@@ -94,6 +95,7 @@ router bgp 209424
 ```
 router bgp 209424
 ```
+![](/Vedhæftet/BGP%20-%20Ibgp&ebgp%20(2).png)
 ---
 ### TDC:
 
@@ -109,5 +111,5 @@ router bgp 209424
 ```
 router bgp 209424
 ```
-
+![](/Vedhæftet/BGP%20-%20Ibgp&ebgp%20(3).png)
   ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dendanskemine/dokumentation?logo=github&color=susscess) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dendanskemine/dokumentation/main)
