@@ -119,13 +119,13 @@ neighbor 10.10.10.9 remote-as 34705
 ```
 #### R8:
 ```
-router bgp 209424
+router bgp 3292
 neighbor 3.3.3.1 remote-as 3292
 neighbor 3.3.3.6 remote-as 3292
 ```
 #### R9:
 ```
-router bgp 209424
+router bgp 3292
 neighbor 3.3.3.5 remote-as 3292
 neighbor 10.10.10.2 remote-as 209424
 ```
