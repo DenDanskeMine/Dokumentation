@@ -25,7 +25,7 @@ Man kan se et AS som sin egen sky, eller udbyder.
 
 ![[AS 1.png]]
 
-På billedet oven over ses. ![eBGP](EBGP)
+På billedet oven over ses. ![eBGP](/Vedhæftet/AS%201.png)
 
 
 
