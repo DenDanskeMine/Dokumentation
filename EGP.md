@@ -3,4 +3,5 @@
 ## Hvad er EGP?
 
 
-![Static Badge](https://img.shields.io/badge/Lable%2C%20)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dendanskemine/dokumentation?logo=github&color=susscess)
+
