@@ -34,9 +34,9 @@ For at se hvordan man opsætter eBGP [klik her](EBGP.md#basic-opsætning)
 
 Forskellen på [eBGP](/Routing%20Protocols/EGP/BGP/EBGP.md) og [iBGP](/Routing%20Protocols/EGP/BGP/IBGP.md) er enlig bare at eBGP bliver brugt imellem skyerne, og iBGP bliver brugt inde i skyerne.<br>
 Med iBGP har alle neighbors det samme AS nummer. 
-![iBGP](/Vedhæftet/iBGP.png)
+![iBGP](/Vedhæftet/IBGP.png)
 
   
-  
+
   
   ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dendanskemine/dokumentation?logo=github&color=susscess) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dendanskemine/dokumentation/main)
