@@ -58,4 +58,56 @@ Det gør vi ved at skrive `neighbor <peer-ip> remote-as <Peer-AS>`
 Dette skal gøres på begge routere for at forme et naboskab.
 
 
+## eBGP & iBGP:
+Nu kobler vi 3 routere på i hver sky.<br>
+Dette vil betyde at vi skal bruge iBGP inde i skyerne, og eBGP udenfor.
+![](/Vedhæftet/BGP%20-%20eBGP%20(1).png)
+
+---
+
+### FASTSPEED:
+
+#### R1:
+```
+router bgp 209424
+```
+#### R2:
+```
+router bgp 209424
+```
+#### R3:
+```
+router bgp 209424
+```
+---
+### STOFA:
+
+#### R4:
+```
+router bgp 209424
+```
+#### R5:
+```
+router bgp 209424
+```
+#### R6:
+```
+router bgp 209424
+```
+---
+### TDC:
+
+#### R7:
+```
+router bgp 209424
+```
+#### R8:
+```
+router bgp 209424
+```
+#### R9:
+```
+router bgp 209424
+```
+
   ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dendanskemine/dokumentation?logo=github&color=susscess) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/dendanskemine/dokumentation/main)
