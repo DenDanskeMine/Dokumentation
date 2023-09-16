@@ -2,7 +2,7 @@
 
 
 ## Basic opsætning
-
+![](../../../Vedhæftet/BGP%20-%20eBGP%20(1).png)
 
 
 
