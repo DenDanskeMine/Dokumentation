@@ -2,6 +2,13 @@
 # BGP (Border Gateway Protocol) 
 BGP er en routingprotokol, der bruges til at styre routing og udveksling af ruteinformation på internettet og i store private netværk.
 
+<center>
+
+> eBGP [klik her](/Routing%20Protocols/EGP/BGP/EBGP.md) &nbsp;&middot;&nbsp;
+> iBGP [klik her](/Routing%20Protocols/EGP/BGP/IBGP.md) &nbsp;
+> 
+</center>
+
 ## Vigtigste funktioner:
 
 - **Routingprotokol:** BGP er en path-vector-protokol, der bestemmer de bedste ruter til dataoverførsel.
