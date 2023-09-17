@@ -2,7 +2,7 @@
 <h1 align="center">
   <br>
 
-<img src="/logo-01-01.png" alt="fejl">
+<img src="/logo-01-01.png" alt="fejl" width="200">
   
   <br>
   Christian Rose
