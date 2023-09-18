@@ -39,7 +39,7 @@ MIT
 ---
 <center>
 
-> Hjemmeside [christian.is-a.dev](https://www.christian.is-a.dev) &nbsp;&middot;&nbsp;
+> Hjemmeside [christian.is-a.dev](https://christian.is-a.dev) &nbsp;&middot;&nbsp;
 > GitHub [@dendanskemine](https://github.com/dendanskemine) &nbsp;
 > 
 </center>
